@@ -1,7 +1,7 @@
 import random
 
 n = []
-p = 0
+p = 2
 inp = 0
 
 for i in range(1, 20):
